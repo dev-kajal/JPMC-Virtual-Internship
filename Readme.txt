@@ -1,0 +1,1 @@
+JPMorgan Chase frameworks and applying technical skills to a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way.Visualizing data in a clear manner with UI/UX. Generated a live graph that displays the data feed in a clear and visually appealing way for traders to monitor this trading strategy.
